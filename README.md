@@ -1,17 +1,24 @@
-# tvspr
+# 📺 Rakib IPTV Player
 
-A new Flutter project.
+**Rakib IPTV Player** is a modern, fast, and user-friendly Flutter IPTV application designed for Android phones, tablets, Android TV, Google TV, Fire TV, and Chromebooks. It provides a smooth streaming experience with a clean Material 3 interface, built-in M3U playlist support, automatic channel loading, favorites management, channel search, category filtering, and responsive performance.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* 📺 Built-in IPTV M3U Playlist
+* ⚡ Automatic Channel Loading
+* 🔍 Fast Channel Search
+* ⭐ Favorite Channels
+* 📂 Category-wise Channel List
+* 🎬 Built-in Video Player
+* 🌙 Light & Dark Mode
+* 📱 Responsive Material 3 Design
+* 📡 Live TV Streaming
+* 🚀 Optimized Performance
+* 📲 Android Phone & Tablet Support
+* 📺 Android TV, Google TV & Fire TV Support
+* 💾 Persistent Local Storage
+* 🎯 Professional UI & User Experience
 
-A few resources to get you started if this is your first Flutter project:
+### SEO Keywords
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter IPTV Player, IPTV Player, Live TV App, M3U Player, M3U8 Player, IPTV Streaming, Android IPTV, Flutter Live TV, Material 3 Flutter App, Android TV Player, Google TV IPTV, Fire TV IPTV, Smart TV Player, IPTV Playlist, Live Sports TV, Entertainment TV, News Channels, Open Source Flutter, Rakib IPTV Player.
