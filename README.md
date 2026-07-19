@@ -2,6 +2,13 @@
 
 **Rakib IPTV Player** is a modern, fast, and user-friendly Flutter IPTV application designed for Android phones, tablets, Android TV, Google TV, Fire TV, and Chromebooks. It provides a smooth streaming experience with a clean Material 3 interface, built-in M3U playlist support, automatic channel loading, favorites management, channel search, category filtering, and responsive performance.
 
+
+<p align="center">
+  <img src="https://github.com/bigbang412247-hub/rakib-ip-tv-player/blob/main/img.png?raw=true" alt="Rakib IPTV Player" width="220">
+</p>
+
+<h1 align="center">📺 Rakib IPTV Player</h1>
+
 ## ✨ Features
 
 * 📺 Built-in IPTV M3U Playlist
