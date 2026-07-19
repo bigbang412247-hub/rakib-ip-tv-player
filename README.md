@@ -7,6 +7,22 @@
   <img src="https://github.com/bigbang412247-hub/rakib-ip-tv-player/blob/main/img.png?raw=true" alt="Rakib IPTV Player" width="220">
 </p>
 
+
+```md
+## 📥 Download
+
+<p align="center">
+  <a href="https://github.com/bigbang412247-hub/rakib-ip-tv-player/releases/tag/rakib-iptv-player">
+    <img src="https://img.shields.io/badge/⬇️%20Download-Latest%20APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+</p>
+
+<p align="center">
+  <b>Download the latest version of Rakib IPTV Player from the GitHub Releases page.</b>
+</p>
+```
+
+
 <h1 align="center">📺 Rakib IPTV Player</h1>
 
 ## ✨ Features
